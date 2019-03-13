@@ -29,7 +29,7 @@ SPEED = 10
 TURN_SPEED = 10
 
 # Sensor settings (if sensors are used!)
-SENSOR_LENGTH = 300     # Length of the sensors
+SENSOR_LENGTH = 300     # Max length of the sensors
 SENSOR_COUNT = 15       # Amount of sensors
 
 MAX_ROTATION_TRESHOLD = 0.4         # Max amount of circles the ship can make
